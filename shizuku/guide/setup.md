@@ -86,7 +86,7 @@ To use `adb` you first need to turn on USB debugging on your device, usually by 
 
    ```
    List of devices attached
-   XXX      device
+   XXX      device <a href="/oppo"><img id="badge-shareable" width="306px" src="/assets/img/placeholder.svg"></a>
    ```
 
 ::: tip
