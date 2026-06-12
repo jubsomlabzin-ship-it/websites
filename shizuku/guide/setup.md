@@ -84,10 +84,9 @@ To use `adb` you first need to turn on USB debugging on your device, usually by 
 5. At this time, the dialog "Allow debugging" will appear on the device, check "Always allow" and confirm.
 6. Enter `adb devices` again in the terminal. If there is no problem, you will see something like the following.
 
-   ```
-   List of devices attached
-   XXX      device
-   ```
+   ```adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
+   
+   ```adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 
 ::: tip
 The steps for enabling Developer Options on different devices may vary, please search for yourself.
