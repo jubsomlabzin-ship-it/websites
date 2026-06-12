@@ -1,4 +1,4 @@
-# User manual
+# Useradb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh manual
 
 [[toc]]
 
